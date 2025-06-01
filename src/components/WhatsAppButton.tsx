@@ -13,7 +13,7 @@ export const WhatsAppButton = () => {
   }, []);
 
   const handleWhatsAppClick = () => {
-    const phoneNumber = "5511999999999"; // Substitua pelo número real
+    const phoneNumber = "+55 (28) 99996-2634"; // Substitua pelo número real
     const message = "Olá! Gostaria de saber mais sobre a STONE EYE e como pode ajudar minha empresa.";
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     
