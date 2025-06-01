@@ -12,7 +12,7 @@ export const AboutSection = () => {
             <p className="text-xl text-gaya-600 leading-relaxed mb-8">
               A STONE EYE é uma solução com IA criada para transformar o setor de rochas ornamentais. 
               Com análise de imagem, ela detecta automaticamente defeitos como <strong className="text-gaya-800">mulas, veios, largadas e barbantes</strong> — 
-              e classifica as chapas com rapidez e precisão, usando câmeras comuns, celulares ou tablets.
+              e classifica as chapas com rapidez e precisão.
             </p>
           </div>
 
@@ -28,7 +28,7 @@ export const AboutSection = () => {
             
             <div className="bg-gaya-gradient p-8 rounded-2xl shadow-lg">
               <h3 className="text-2xl font-semibold text-gaya-800 mb-4">
-                📱 Funciona com câmera comum, celular ou tablet
+                Integrado com seu estudio.
               </h3>
               <p className="text-gaya-600">
                 Integração simples com equipamentos que você já possui.
