@@ -64,7 +64,7 @@ export const PricingSection = () => {
 
             <div className="text-center mt-8">
               <p className="text-sm text-gaya-500 mb-6">
-                ✨ Sem fidelidade. Sem taxa de instalação.
+                
               </p>
               <Button 
                 onClick={scrollToContact}
