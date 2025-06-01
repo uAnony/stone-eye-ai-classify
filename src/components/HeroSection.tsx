@@ -19,7 +19,7 @@ export const HeroSection = () => {
         <div className="max-w-4xl mx-auto animate-fade-in">
           <div className="mb-6">
             <span className="inline-block text-gaya-600 text-lg font-medium tracking-wide uppercase mb-4">
-              🌿 Inovação em Rochas Ornamentais
+                Inovação em Rochas Ornamentais
             </span>
           </div>
           
