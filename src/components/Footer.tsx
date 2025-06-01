@@ -6,7 +6,7 @@ export const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-2xl font-bold font-playfair mb-4">
-              🌿 STONE EYE
+                STONE EYE
             </h3>
             <p className="text-gaya-200 leading-relaxed">
               Inteligência Artificial para a nova era do mármore e granito. 
@@ -27,9 +27,9 @@ export const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contato</h4>
             <ul className="space-y-2 text-gaya-200">
-              <li>📧 contato@stoneeye.ai</li>
-              <li>💬 WhatsApp disponível</li>
-              <li>🏢 São Paulo, Brasil</li>
+              <li>📧 StoneEyeS.A@gmail.com</li>
+              <li>💬 WhatsApp +55 (28) 99996-2634</li>
+              <li>🏢 Cachoeiro de Itapemirim, Brasil</li>
             </ul>
           </div>
         </div>
@@ -38,7 +38,7 @@ export const Footer = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gaya-300 text-sm">
-            © 2024 STONE EYE. Todos os direitos reservados.
+            © 2025 STONE EYE. Todos os direitos reservados.
           </p>
           <div className="flex space-x-6 text-sm text-gaya-300 mt-4 md:mt-0">
             <a href="#" className="hover:text-white transition-colors">Política de Privacidade</a>
