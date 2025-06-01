@@ -10,7 +10,7 @@ export const FeaturesSection = () => {
     },
     {
       icon: Camera,
-      title: "Análise de imagem com câmeras ou smartphones",
+      title: "Análise de imagem com câmeras ",
       description: "Flexibilidade total para usar equipamentos existentes"
     },
     {
